@@ -142,6 +142,10 @@ end
 
 ### Configuration
 
+**NOTE: The new configuration syntax isn't available in a public release just
+yet -- please refer to the [README for 2.8.0][2.8.0-README] for the current
+installation instructions.**
+
 Before you can use Shoulda Matchers, you'll need to tell it a couple of things:
 
 * Which test framework you're using
